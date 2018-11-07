@@ -37,3 +37,5 @@ A list of IndieHacker blogs. Add your own! Open an issue or make a PR!
 [kevinridgway.com](https://kevinridgway.com/)
 
 [pavelurbanek.com](https://pawelurbanek.com/)
+
+[@readit](https://medium.com/@readit)
