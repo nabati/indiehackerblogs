@@ -39,3 +39,5 @@ A list of IndieHacker blogs. Add your own! Open an issue or make a PR!
 [pavelurbanek.com](https://pawelurbanek.com/)
 
 [@readit](https://medium.com/@readit)
+
+[peterthaleikis.com](https://peterthaleikis.com/)
